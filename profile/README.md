@@ -14,8 +14,6 @@ Nossa empresa utiliza uma ampla gama de tecnologias de ponta para fornecer solu√
 
 ---
 
-# Knex Consultoria
-
 ## About the Company
 
 Knex Consultoria is a leading technology consulting firm, offering innovative solutions for businesses of all sizes. With a team of highly skilled experts, we are committed to providing personalized consulting services that drive our clients' growth and efficiency.
